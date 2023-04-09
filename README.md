@@ -1,5 +1,4 @@
 # Facial-Expression-Detector
-The Project is Facial Expression Detector.
 
 Facial expression recognition software is a technology which uses biometric markers to detect emotions in human faces. More precisely, this technology is a sentiment analysis tool and is able to automatically detect the five basic or universal expressions: happiness, sadness, anger, surprise, neutral.
 
